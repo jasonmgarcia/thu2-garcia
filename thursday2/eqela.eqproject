@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thursday2
+#
+
+projectname: thursday2
+vendorid: com.jason.example
+mainmodule: com.jason.example.thursday2
